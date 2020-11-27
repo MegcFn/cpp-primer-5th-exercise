@@ -1,4 +1,4 @@
-#The program for exercise1_23
+## The program for exercise1.23
 ```cpp
 #include <iostream>
 
@@ -26,8 +26,8 @@ int main() {
 
 ```
 
-;The test for exercise1_24  
-;test data file "infile"  
+## The test for exercise1.24  
+### test data file "infile"  
 0-201-78345-x 2 20.00  
 0-201-78345-y 3 23.00  
 0-201-78345-y 5 23.00  
